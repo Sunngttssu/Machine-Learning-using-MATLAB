@@ -2,7 +2,7 @@
 
 This repository contains MATLAB scripts for classic machine learning classification tasks using an Artificial Neural Network (ANN) and a Support Vector Machine (SVM) on well-known datasets.
 
-- Scripts are located in `Assignment 2/`.
+- Scripts are located in `Machine-Learning-using-MATLAB/`.
 - Datasets used are either included in this repo or referenced from public sources (see instructions below).
 
 ## Contents
